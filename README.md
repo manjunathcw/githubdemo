@@ -1,2 +1,2 @@
 # githubdemo
-this is a project about rendering media using media
+this is one repo to creating usage of github
